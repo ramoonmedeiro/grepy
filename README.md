@@ -1,4 +1,6 @@
-# grepy
+# GREPY v1.0
+
+Grepy is a parameter filtering tool. It's a grep targeting parameters in URLs.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102380417/163054964-4ad8257c-55f7-411b-81e4-d7ae89a8f5b8.png" width="500px" />
