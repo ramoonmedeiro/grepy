@@ -18,5 +18,4 @@ $ pip3 install -r requirements.txt
 ```
 $ python3 main.py --help or
 $ python3 main.py -w WORDLIST -l FILE-WITH-URLS
-
 ```
